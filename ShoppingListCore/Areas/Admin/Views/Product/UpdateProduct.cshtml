@@ -1,0 +1,50 @@
+﻿@model ShoppingListProject.Models.Product
+
+@{
+    ViewData["Title"] = "Kategori Güncelle";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h1>Ürün Güncelle</h1>
+
+
+<hr />
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="UpdateProduct">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="ProductId" class="control-label">Ürün Id</label>
+                <input readonly asp-for="@Model.ProductId" class="form-control" />
+                <span asp-validation-for="ProductId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ProductName" class="control-label">Ürün Adı</label>
+                <input asp-for="@Model.ProductName" class="form-control" />
+                <span asp-validation-for="ProductName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CategoryId" class="control-label">Kategori</label>
+                <select  asp-for="@Model.Category.CategoryId" class="form-control" asp-items="@ViewBag.Categories" ></select>
+                
+            </div>
+              <div class="form-group">
+                <label asp-for="Image" class="control-label">Ürün Görseli</label>
+                <input class="form-control" type="file" asp-for="@Model.Image" accept="image/*" />
+                <span asp-validation-for="Image" class="text-danger"></span>
+            </div>  
+            <div class="form-group">
+                <input type="submit" value="Kaydet" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+@if (!string.IsNullOrEmpty(ViewBag.message))
+{
+
+    <div class="text-danger">@ViewBag.message</div>
+}
+<div>
+    <a asp-action="Index">Geri Dön</a>
+</div>

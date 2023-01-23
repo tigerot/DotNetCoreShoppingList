@@ -1,0 +1,55 @@
+﻿@using ShoppingListProject.Models;
+@model UserSignInViewModel
+
+<link rel="stylesheet" href="/css/site.css">
+
+<div class="form-body">
+    <div class="row">
+        <div class="form-holder">
+            <div class="form-content">
+
+                <img src="/images/login.jpg" />
+                <div class="form-items">
+               
+                    <h3>Hemen Giriş Yapın</h3>
+                    <p>Alışveriş listelerinizi hazırlayın</p>
+                       @if (!string.IsNullOrEmpty(ViewBag.message))
+                        {
+                            <div class="text-danger">@ViewBag.message</div>
+                        }
+                    <form method="POST" background-color: #152733; >
+                      
+                        <div class="col-md-12">
+                            <label for="UserMail"><i class="zmdi zmdi-email"></i></label>
+                            <input type="email" asp-for="email" placeholder="Email" />
+                            <span asp-validation-for="email" class="text-danger"></span>
+                        </div>
+
+                        <div class="col-md-12">
+                            <label for="pass"><i class="zmdi zmdi-lock"></i></label>
+                            <input type="password" asp-for="password" placeholder="Parola" />
+                            <span asp-validation-for="password" class="text-danger"></span>
+                        </div>
+
+                      
+
+
+
+
+
+                        <div class="form-button mt-3">
+                            <button id="submit" type="submit" class="btn btn-primary">Giriş</button>
+                        </div>
+                        <a href="/Login/SignUp" class="signup-image-link">Üyeliğiniz yok mu?</a>
+                    </form>
+
+
+                </div>
+            </div>
+        </div>
+           
+
+    </div>
+</div>
+
+<script src="/js/main.js"></script>

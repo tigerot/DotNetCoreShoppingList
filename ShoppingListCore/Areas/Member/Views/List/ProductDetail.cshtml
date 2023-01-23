@@ -1,0 +1,63 @@
+﻿@using ShoppingListProject.Models;
+
+@model ListDetail
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_MemberLayout.cshtml";
+}
+
+<body>
+
+    
+       
+
+        <h1>Ürün Detayı</h1>
+
+
+        <hr />
+  
+
+        <div class="row">
+            <div class="col-md-4">
+           
+                <form asp-action="UpdateProduct" >
+                 <div class="form-group">
+                        <label  class="control-label">Ürün Adı</label>
+                        <input readonly type="hidden" asp-for="@Model.Id" class="form-control" />
+                        <input readonly type="hidden" asp-for="@Model.ListId" class="form-control" />
+                      
+                    </div>
+                    <div class="form-group">
+                       
+                    <img width="100" height="100" src="/images/@Model.Product.Image" alt="" class="img-fluid"/>
+                    </div>
+                    <div class="form-group">
+                        <label  class="control-label">Ürün Adı</label>
+                        <input readonly asp-for="@Model.Product.ProductName" class="form-control" />
+                      
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Detail" class="control-label">Detay</label>
+                      @Html.TextBoxFor(model=>model.Detail, !ViewBag.isActive 
+    ? (object)new { @class = "form-control", @readonly ="readonly" } 
+    : (object)new { @class = "form-control" })
+                    </div>
+                   
+                   
+                    <div class="form-group">
+                  @if(ViewBag.isActive){
+                        <input type="submit" value="Güncelle" class="btn btn-secondary" />
+                       
+
+                }
+                    </div>
+                </form>
+        </div>
+    </div>
+        
+
+
+    <a asp-action="ListDetail" asp-route-id="@Model.ListId">Geri Dön</a>
+
+</body>
+

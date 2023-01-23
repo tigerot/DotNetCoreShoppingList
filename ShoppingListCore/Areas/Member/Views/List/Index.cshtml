@@ -1,0 +1,59 @@
+﻿@using ShoppingListProject.Models;
+@model List<List>
+@{
+    ViewData["Title"] = "Listelerim";
+    Layout = "~/Views/Shared/_MemberLayout.cshtml";
+}
+
+<body>
+
+    <form>
+        <button asp-action="AddList" asp-controller="List" class="btn btn-secondary">Liste Ekle</button>
+
+      
+
+        <table class="table table-responsive table-hoover">
+            <thead>
+                <tr class="table-active">
+                   
+                    <th>Adı</th>
+                    <th>#</th>
+                    <th>#</th>
+                    <th>#</th>
+                </tr>
+            </thead>
+            <tbody>
+                @if (Model != null && Model.Any())
+                {
+
+                    @foreach (var item in Model)
+                    {
+
+                        <tr class="text-bolder">
+                            <td>@item.ListName</td>
+
+                            <td>@Html.ActionLink("Detay", "ListDetail", "List", new {id=item.ListId ,isActive=item.isActive}, new { @class = "btn btn-info", @role ="button" })</td>
+                            <td>@Html.ActionLink("Sil", "DeleteList", "List", new { id=item.ListId }, new { @class = "btn btn-danger", @role = "button" })</td>
+                            @if(!@item.isActive)
+                            {<td class="text-danger">Alışverişte</td>}
+                        </tr>
+                    }
+
+                }
+                else
+                {
+                    <tr>
+
+                        <td colspan="6">
+                            <div>
+                                Henüz bir Listeniz yok!
+                            </div>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </form>
+
+</body>
+

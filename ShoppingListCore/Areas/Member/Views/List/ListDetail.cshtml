@@ -1,0 +1,84 @@
+﻿@using ShoppingListProject.Models;
+@model List<ListDetail>
+@{
+    ViewData["Title"] = "Liste Detayı";
+    Layout = "~/Views/Shared/_MemberLayout.cshtml";
+}
+
+<body>
+
+    
+    <br />
+
+
+    <div class="form-group">
+       
+
+            <div align="center">
+                <form asp-controller="List" asp-action="FilterProductbyName">
+                    <label class="control-label">Kategori Filtreleme:</label>
+                    @Html.DropDownList("Kategoriler",ViewBag.Categories,null,new { @onchange="callChangefunc(this.value)"})
+                    <label class="control-label">Ürün Filtreleme:</label>
+                @if (Model != null && Model.Any())
+                {
+                    <input type="text" name="name" />
+                    <input type="hidden" name="Listid" asp-for="@Model[0].ListId" />
+                    <input type="submit" value="Ara" class="btn btn-secondary" />
+
+                }
+                </form>
+
+            </div>
+       
+            @if (ViewBag.isActive)
+            {
+                @Html.ActionLink("Ürün Ekle", "AddProduct", "List",new {listid=ViewBag.Listid }, new { @class = "btn btn-secondary", @role ="button" })
+            }
+
+            @if (Model != null && Model.Any())
+            {
+
+                @if (ViewBag.isActive)
+                {
+                    @Html.ActionLink("Alışverişe Çık", "ChangeActiveStatus", "List", new {id=Model[0].ListId }, new { @class ="btn btn-info", @role ="button" })
+
+                }
+                @if (!ViewBag.isActive)
+                {
+                    @Html.ActionLink("Alışverişi Bitir", "ChangeActiveStatus", "List", new {id=Model[0].ListId }, new { @class = "btn btn-danger", @role ="button" })
+                }
+            }
+
+        
+        <div>  <a asp-action="Index">Geri Dön</a></div>
+          
+
+            @if (!string.IsNullOrEmpty(ViewBag.Notfound))
+            {
+
+                <div class="text-danger">@ViewBag.Notfound</div>
+            }
+           
+        </div>
+            <div id="productcontainer">
+                <partial name="_ShowProductPartialView.cshtml" model="@Model" />
+            </div>
+      
+
+
+       
+
+
+     
+        
+
+   
+</body>
+
+        <script>
+            function callChangefunc(val) {
+        window.location.href = "/Member/List/FilterProductbyCategory?id=" + val+"&Listid="+@ViewBag.Listid;
+            }
+   
+          
+        </script>

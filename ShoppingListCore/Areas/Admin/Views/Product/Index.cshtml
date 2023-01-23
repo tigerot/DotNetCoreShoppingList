@@ -1,0 +1,101 @@
+﻿@using ShoppingListProject.Models;
+@model List<Product>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+<body>
+
+<form>
+    <button asp-action="AddProduct" asp-controller="Product" class="btn btn-primary">Ürün Ekle</button>
+        <div> <label class="control-label">Kategori Filtreleme:</label></div>
+        @Html.DropDownList("Kategoriler",ViewBag.Categories,null,new { @onchange="callChangefunc(this.value)"} )
+
+        </div>
+      
+
+      
+    
+
+       
+    
+
+
+
+        @if (!string.IsNullOrEmpty(ViewBag.message))
+        {
+
+            <div class="text-danger">@ViewBag.message</div>
+        }
+
+    <table class="table table-responsive table-hoover">
+        <thead>
+            <tr class="table-active">
+                <th>#</th>
+                <th>Adı</th>
+                <th>Kategori</th>
+                <th>#</th>
+                <th>#</th>
+                
+
+
+
+            </tr>
+        </thead>
+        <tbody>
+            @if (Model != null && Model.Any())
+            {
+
+                @foreach (var item in Model)
+                {
+
+                    <tr>
+                        <td><img width="50" height="50" src="/images/@item.Image" alt="" class="img-fluid"></td>
+                        <td>@item.ProductName</td>
+                        <td>@item.Category.CategoryName</td>
+                        <td>@Html.ActionLink("Güncelle", "UpdateProduct", "Product", new {id=item.ProductId }, new { @class = "btn btn-primary", @role ="button" })</td>
+
+
+
+                        <td>@Html.ActionLink("Sil", "DeleteProduct", "Product", new { id=item.ProductId }, new { @class = "btn btn-warning", @role = "button" })</td>
+
+
+                    </tr>
+
+
+
+                }
+
+            }
+            else
+            {
+                <tr>
+                    <td colspan="6">
+                        <div>
+                           Henüz bir ürün yok!
+                        </div>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</form>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+    <script type="text/javascript">
+        $("body").on("change", "#ddlCategories", function () {
+            $('#WebGridForm')[0].submit();
+        });
+        $("body").on("click", ".Grid tfoot a", function () {
+            $('#WebGridForm').attr('action', $(this).attr('href')).submit();
+            return false;
+        });
+    </script>
+</body>
+<script>
+    function callChangefunc(val) {
+        window.location.href = "/Admin/Product/FilterProduct?id=" + val ;
+    }
+</script>

@@ -1,0 +1,72 @@
+﻿@using ShoppingListProject.Models;
+@model List<Product>
+
+@{
+    ViewData["Title"] = "Yeni Ürün Ekle";
+    Layout = "~/Views/Shared/_MemberLayout.cshtml";
+}
+
+
+<div class="section-heading">
+    <h2>Ürünler</h2>
+
+</div>
+
+<div>
+    <a asp-action="ListDetail" asp-route-id="@ViewBag.Listid">Geri Dön</a>
+</div>
+@if (Model != null && Model.Any())
+{
+      <div align="center">
+    <form asp-controller="List" asp-action="FilterAddProductListbyName">
+        <label class="control-label">Kategori Filtreleme:</label>
+        @Html.DropDownList("Kategoriler",ViewBag.Categories,null,new { @onchange="callChangefunc(this.value)"} )
+
+         <label class="control-label">Ürün Filtreleme:</label>
+       
+            <input type="text" name="name" />
+            <input type="hidden" name="Listid" value="@ViewBag.Listid" />
+            <input type="submit" value="Ara" class="btn btn-secondary" />
+   
+    </form>  </div>
+}
+<br />
+        </div>
+<hr />
+<div class="latest-products">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                
+            </div>
+                     @if (Model != null && Model.Any())
+            {
+
+                @foreach (var item in Model)
+                {
+
+                    <div class="col-md-4">
+                        <div class="product-item">
+                            <img width="100" height="100" src="/images/@item.Image" />
+                            <div class="down-content">
+                                <h4>@item.ProductName</h4>
+                                <h6>@item.Category.CategoryName</h6> 
+
+                            <div> @Html.ActionLink("Ekle", "AddProducttoList", "List",new {id=item.ProductId, listid=ViewBag.listid }, new { @class = "btn btn-info", @role ="button" })</div>
+
+                                
+                            </div>
+                        </div>
+                    </div><br />
+                }
+            }
+        </div>
+    </div>
+</div>
+
+
+<script>
+            function callChangefunc(val) {
+        window.location.href = "/Member/List/FilterAddProductList?id=" + val + "&Listid=" + @ViewBag.Listid;
+    }
+        </script>

@@ -1,0 +1,64 @@
+﻿@using ShoppingListProject.Models;
+@model List<Category>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<form>
+    <button asp-action="AddCategory" asp-controller="Category" class="btn btn-primary">Kategori Ekle</button>
+    <table class="table table-responsive table-hoover">
+        <thead>
+            <tr class="table-active">
+                <th>ID</th>
+                <th>Name</th>
+                <th>#</th>
+                <th>#</th>
+
+
+
+            </tr>
+        </thead>
+        <tbody>
+            @if (Model != null && Model.Any())
+            {
+
+                @foreach (var item in Model)
+                {
+
+                    <tr>
+
+                        <td>@item.CategoryId</td>
+
+                        <td>@item.CategoryName</td>
+                        <td>
+
+                            @Html.ActionLink("Güncelle", "UpdateCategory", "Category", new {categoryname=item.CategoryName, id=item.CategoryId }, new { @class = "btn btn-primary", @role =
+                 "button" })</td>
+
+        
+                        
+                        <td>@Html.ActionLink("Sil", "DeleteCategory", "Category", new { id=item.CategoryId }, new { @class = "btn btn-warning", @role = "button" })</td>
+
+
+                    </tr>
+
+
+
+                }
+
+            }
+            else
+            {
+                <tr>
+                    <td colspan="6">
+                        <div>
+                            Add a Category!
+                        </div>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</form>
+

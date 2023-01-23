@@ -1,0 +1,41 @@
+﻿@model ShoppingListProject.Models.Category
+
+@{
+    ViewData["Title"] = "Kategori Güncelle";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h1>Kategori Ekle</h1>
+
+
+<hr />
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="UpdateCategory">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="CategoryId" class="control-label">Kategori Id</label>
+                <input readonly asp-for="@Model.CategoryId" class="form-control" />
+                <span asp-validation-for="CategoryId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CategoryName" class="control-label">Kategori Adı</label>
+                <input asp-for="@Model.CategoryName" class="form-control" />
+                <span asp-validation-for="CategoryName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Kaydet" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+@if (!string.IsNullOrEmpty(ViewBag.message))
+{
+
+    <div class="text-danger">@ViewBag.message</div>
+}
+<div>
+    <a asp-action="Index">Geri Dön</a>
+</div>
+

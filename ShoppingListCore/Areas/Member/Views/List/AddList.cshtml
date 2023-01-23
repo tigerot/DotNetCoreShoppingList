@@ -1,0 +1,33 @@
+﻿ @model ShoppingListProject.Models.List
+
+@{
+    ViewData["Title"] = "Yeni Alışveriş Listesi Ekle";
+    Layout = "~/Views/Shared/_MemberLayout.cshtml";
+}
+
+<h1>Yeni Liste Ekle</h1>
+
+
+<hr />
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="AddList">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+           
+            <div class="form-group">
+                <label asp-for="ListName" class="control-label">Liste Adı</label>
+                <input asp-for="ListName" class="form-control" />
+                <span asp-validation-for="ListName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Kaydet" class="btn btn-secondary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Geri Dön</a>
+</div>
+

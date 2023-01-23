@@ -1,0 +1,79 @@
+﻿@using ShoppingListProject.Models;
+@model List<ListDetail>
+
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+
+   
+
+    <table class="table table-responsive table-hoover">
+
+        <thead>
+            <tr class="table-active">
+
+                <th>#</th>
+                <th>Ürün</th>
+                <th>Kategori</th>
+                <th>#</th>
+
+            </tr>
+        </thead>
+        <tbody>
+            @if (Model != null && Model.Any())
+            {
+
+
+                @foreach (var item in Model)
+                {
+                   
+
+                    <tr class="text-bolder">
+                        <td><img width="50" height="50" src="/images/@item.Product.Image" alt="" class="img-fluid"></td>
+                        <td>@item.Product.ProductName</td>
+                        <td>@item.Product.Category.CategoryName</td>
+                        <td>@Html.ActionLink("Detay", "ProductDetail", "List", new {id=item.Id,isActive=ViewBag.isActive }, new { @class = "btn btn-info", @role = "button" })</td>
+                       
+                        @if (ViewBag.isActive)
+                        {
+                            <td>
+
+                                @Html.ActionLink("Ürünü Sil", "DeleteProductonList", "List", new {id=item.Id, Listid=item.ListId }, new { @class = "btn btn-danger", @role ="button" })
+                            </td>
+                        }
+                        else
+                        {
+                            <td>
+                                @Html.ActionLink("Aldım", "DeleteProductonShop", "List", new {id=item.Id, Listid=item.ListId }, new { @class = "btn btn-success", @role ="button" })
+
+                            </td>
+                        }
+                    </tr>
+                }
+
+            }
+            else
+            {
+                <tr>
+
+                    <td colspan="6">
+                        <div>
+                            Henüz bir ürün yok!
+                        </div>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <script>
+
+    function showPopup(id) {
+        var url = '_ShowProductDetailPartialView/' + id;
+        $.get(url, function (data) {
+            $('#detay').html(data);
+        });
+    }
+    </script>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.min.js" integrity="sha384-+YQ4JLhjyBLPDQt//I+STsc9iw4uQqACwlvpslubQzn4u2UU2UFM80nGisd026JF" crossorigin="anonymous"></script>
