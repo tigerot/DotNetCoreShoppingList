@@ -107,7 +107,7 @@ namespace ShoppingListCore.Areas.Member.Controllers
         {
           
 
-            //kullanıcının listdetail tablosundaki verilerini product ve category bilgileriyle birleştirerek getirir
+            //Joins the user's data in listdetail table with product and category data and returns it
             
             Expression<Func<ListDetail, object>>[] expressionList = { x => x.Product, x => x.Product.Category };
             var detail = listDetailRepository.GetAll(x => x.ListId == id&x.List.UserId== Userid, expressionList);
@@ -163,13 +163,13 @@ namespace ShoppingListCore.Areas.Member.Controllers
         }
         private void GetCategories(int id = 0)
         {
-            //kategori listesini getirir
+            //Returns the category list
             List<Category> categories = new List<Category>();
          
             var categories1 = categoryRepository.GetList();
             if (id != 0)
             {
-                //ürün sayfasına gönderirken dropdownda ilk sırada filtrelenen ürünün kategorisi olsun
+                //Shows the category of the filtered product at the top of the dropdown menu while redirecting to products page
                 var ct = categoryRepository.GetByID(id);
                 categories.Add(ct);
                 categories.Add(new Category { CategoryId = 0, CategoryName = "Tümü" });
@@ -201,7 +201,7 @@ namespace ShoppingListCore.Areas.Member.Controllers
 
         public IActionResult ProductDetail(int id,bool isActive)
         {
-            //seçilen ürünün detaylarını getirir
+            //Returns the details of the chosen product
             ListDetail listproduct = new ListDetail();
             ViewBag.isActive = isActive;
             var product = listDetailRepository.GetAll(x=>x.Id==id&x.List.UserId==Userid,y=> y.Product);
@@ -216,7 +216,7 @@ namespace ShoppingListCore.Areas.Member.Controllers
         [HttpPost]
         public IActionResult UpdateProduct(ListDetail l)
         {
-            //ürünü günceller/ kullanıcı sadece girdiği detayı güncelleyebilir
+            //Updates the product but the user can only update the detail that he/she entered
             var identitycontrol = listRepository.GetByFilter(x => x.UserId == Userid & x.ListId == l.ListId);
             if (identitycontrol != null) { 
                 var listdetail=listDetailRepository.GetByID(l.Id);
@@ -228,7 +228,7 @@ namespace ShoppingListCore.Areas.Member.Controllers
         }
         public IActionResult ChangeActiveStatus(int id) 
         {
-            //alışverişe çık ve alışverişi bitir butonları tıklandığında listenin aktiflik durumunu değiştirir
+            //Changes the state of the list when clicked on the buttons
             var a=listRepository.GetByID(id);
             if (a.isActive)
             { a.isActive = false; }
@@ -243,7 +243,7 @@ namespace ShoppingListCore.Areas.Member.Controllers
         [HttpGet]
         public IActionResult AddProduct(int listid)
         {
-            //ürünlerin listeli olduğu sayfaya yönlendirirken zaten kullanıcının listesinde bulunan ürünleri filtreler
+            //Filters the products that the user added into his/her list while redirecting
             GetCategories();
             var product = productRepository.GetAll(null, y => y.Category);
             var listproducts=listDetailRepository.GetListByFilter(x=>x.ListId==listid&x.List.UserId==Userid);
@@ -268,7 +268,7 @@ namespace ShoppingListCore.Areas.Member.Controllers
         }
         public IActionResult FilterAddProductList(int id, int Listid)
         {
-            //Kategori filtreleme
+            //Filtering categories
 
             var product = productRepository.GetAll(null, y => y.Category);
             var listproducts = listDetailRepository.GetListByFilter(x => x.ListId == Listid );
@@ -303,7 +303,7 @@ namespace ShoppingListCore.Areas.Member.Controllers
         [HttpPost]
         public IActionResult FilterAddProductListbyName(string name, int Listid)
         {
-            //ürün adı filtreleme
+            //Filtering product names
             if (name == null)
                 name = "";
             var product = productRepository.GetAll(x=>x.ProductName.Contains(name), y => y.Category);
@@ -350,7 +350,7 @@ namespace ShoppingListCore.Areas.Member.Controllers
         [HttpGet]
         public IActionResult AddProducttoList(int id,int listid)
         {
-            //seçilen ürünü ilgili listeye ekler
+            //Adds the chosen product into the related list
 
             ListDetail listDetail = new ListDetail();
             listDetail.ListId= listid;
