@@ -14,7 +14,7 @@ namespace ShoppingListCoreProject.Models
         }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            //db oluşturulurken admini ekledik
+            //Added the admin user while creating the database
             modelBuilder.Entity<User>().HasData(
         new User
         {

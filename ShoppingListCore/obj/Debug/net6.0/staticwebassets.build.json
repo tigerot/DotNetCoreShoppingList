@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ZDNwuYNfBVytZ9tmfUJQrNcMCS75k+miMmeUMPSVQBU=",
+  "Hash": "Lx6olU3doEkE+JS442k3Hq1bZSZoJg/cT3wGpk2yXZk=",
   "Source": "ShoppingListCore",
   "BasePath": "_content/ShoppingListCore",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "ShoppingListCore\\wwwroot",
       "Source": "ShoppingListCore",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "Pattern": "**"
     }
@@ -20,7 +20,7 @@
       "Identity": "C:\\Users\\Suat\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.css",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "css/bootstrap.css",
       "AssetKind": "All",
@@ -37,7 +37,7 @@
       "Identity": "C:\\Users\\Suat\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.css.map",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "css/bootstrap.css.map",
       "AssetKind": "All",
@@ -54,7 +54,7 @@
       "Identity": "C:\\Users\\Suat\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.min.css",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "css/bootstrap.min.css",
       "AssetKind": "All",
@@ -71,7 +71,7 @@
       "Identity": "C:\\Users\\Suat\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.min.css.map",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -88,7 +88,7 @@
       "Identity": "C:\\Users\\Suat\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.css",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -105,7 +105,7 @@
       "Identity": "C:\\Users\\Suat\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.css.map",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -122,7 +122,7 @@
       "Identity": "C:\\Users\\Suat\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.min.css",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -139,7 +139,7 @@
       "Identity": "C:\\Users\\Suat\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -156,7 +156,7 @@
       "Identity": "C:\\Users\\Suat\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.css",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -173,7 +173,7 @@
       "Identity": "C:\\Users\\Suat\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.css.map",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -190,7 +190,7 @@
       "Identity": "C:\\Users\\Suat\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.min.css",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -207,7 +207,7 @@
       "Identity": "C:\\Users\\Suat\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.min.css.map",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -224,7 +224,7 @@
       "Identity": "C:\\Users\\Suat\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.css",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -241,7 +241,7 @@
       "Identity": "C:\\Users\\Suat\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -258,7 +258,7 @@
       "Identity": "C:\\Users\\Suat\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -275,7 +275,7 @@
       "Identity": "C:\\Users\\Suat\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -292,7 +292,7 @@
       "Identity": "C:\\Users\\Suat\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.css",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -309,7 +309,7 @@
       "Identity": "C:\\Users\\Suat\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.css.map",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -326,7 +326,7 @@
       "Identity": "C:\\Users\\Suat\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.min.css",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -343,7 +343,7 @@
       "Identity": "C:\\Users\\Suat\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -360,7 +360,7 @@
       "Identity": "C:\\Users\\Suat\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -377,7 +377,7 @@
       "Identity": "C:\\Users\\Suat\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -394,7 +394,7 @@
       "Identity": "C:\\Users\\Suat\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -411,7 +411,7 @@
       "Identity": "C:\\Users\\Suat\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -428,7 +428,7 @@
       "Identity": "C:\\Users\\Suat\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.css",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -445,7 +445,7 @@
       "Identity": "C:\\Users\\Suat\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.css.map",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -462,7 +462,7 @@
       "Identity": "C:\\Users\\Suat\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.min.css",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -479,7 +479,7 @@
       "Identity": "C:\\Users\\Suat\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -496,7 +496,7 @@
       "Identity": "C:\\Users\\Suat\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -513,7 +513,7 @@
       "Identity": "C:\\Users\\Suat\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -530,7 +530,7 @@
       "Identity": "C:\\Users\\Suat\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -547,7 +547,7 @@
       "Identity": "C:\\Users\\Suat\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -564,7 +564,7 @@
       "Identity": "C:\\Users\\Suat\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.js",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -581,7 +581,7 @@
       "Identity": "C:\\Users\\Suat\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.js.map",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -598,7 +598,7 @@
       "Identity": "C:\\Users\\Suat\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.min.js",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -615,7 +615,7 @@
       "Identity": "C:\\Users\\Suat\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -632,7 +632,7 @@
       "Identity": "C:\\Users\\Suat\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.js",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -649,7 +649,7 @@
       "Identity": "C:\\Users\\Suat\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.js.map",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -666,7 +666,7 @@
       "Identity": "C:\\Users\\Suat\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.min.js",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -683,7 +683,7 @@
       "Identity": "C:\\Users\\Suat\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.min.js.map",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -700,7 +700,7 @@
       "Identity": "C:\\Users\\Suat\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.js",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "js/bootstrap.js",
       "AssetKind": "All",
@@ -717,7 +717,7 @@
       "Identity": "C:\\Users\\Suat\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.js.map",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "js/bootstrap.js.map",
       "AssetKind": "All",
@@ -734,7 +734,7 @@
       "Identity": "C:\\Users\\Suat\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.min.js",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "js/bootstrap.min.js",
       "AssetKind": "All",
@@ -751,7 +751,7 @@
       "Identity": "C:\\Users\\Suat\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.min.js.map",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "C:\\Users\\Suat\\.nuget\\packages\\bootstrap\\5.2.3\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ShoppingListCore.styles.css",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ShoppingListCore.styles.css",
       "SourceId": "ShoppingListCore",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "ShoppingListCore.styles.css",
       "AssetKind": "All",
@@ -779,13 +779,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ShoppingListCore.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ShoppingListCore.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ShoppingListCore.bundle.scp.css",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ShoppingListCore.bundle.scp.css",
       "SourceId": "ShoppingListCore",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "ShoppingListCore.bundle.scp.css",
       "AssetKind": "All",
@@ -796,13 +796,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ShoppingListCore.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ShoppingListCore.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\css\\site.css",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\fonts\\Flaticon.woff",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\fonts\\Flaticon.woff",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "fonts/Flaticon.woff",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Flaticon.woff"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\fonts\\flexslider-icon.eot",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\fonts\\flexslider-icon.eot",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "fonts/flexslider-icon.eot",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\flexslider-icon.eot"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\fonts\\flexslider-icon.svg",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\fonts\\flexslider-icon.svg",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "fonts/flexslider-icon.svg",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\flexslider-icon.svg"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\fonts\\flexslider-icon.ttf",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\fonts\\flexslider-icon.ttf",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "fonts/flexslider-icon.ttf",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\flexslider-icon.ttf"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\fonts\\flexslider-icon.woff",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\fonts\\flexslider-icon.woff",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "fonts/flexslider-icon.woff",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\flexslider-icon.woff"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\fonts\\FontAwesome.otf",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\fonts\\FontAwesome.otf",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "fonts/FontAwesome.otf",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\FontAwesome.otf"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\fonts\\fontawesome-webfont.eot",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "fonts/fontawesome-webfont.eot",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.eot"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\fonts\\fontawesome-webfont.svg",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "fonts/fontawesome-webfont.svg",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.svg"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\fonts\\fontawesome-webfont.ttf",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "fonts/fontawesome-webfont.ttf",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.ttf"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\fonts\\fontawesome-webfont.woff",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "fonts/fontawesome-webfont.woff",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.woff"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\fonts\\fontawesome-webfont.woff2",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "fonts/fontawesome-webfont.woff2",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.woff2"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\fonts\\slick.eot",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\fonts\\slick.eot",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "fonts/slick.eot",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\slick.eot"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\fonts\\slick.svg",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\fonts\\slick.svg",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "fonts/slick.svg",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\slick.svg"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\fonts\\slick.ttf",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\fonts\\slick.ttf",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "fonts/slick.ttf",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\slick.ttf"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\fonts\\slick.woff",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\fonts\\slick.woff",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "fonts/slick.woff",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\slick.woff"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\images\\adminlogo.png",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\images\\adminlogo.png",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "images/adminlogo.png",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\images\\adminlogo.png"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\images\\ayar.png",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\images\\ayar.png",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "images/ayar.png",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\images\\ayar.png"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\images\\balik.jpg",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\images\\balik.jpg",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "images/balik.jpg",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\images\\balik.jpg"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\images\\biskuvi.png",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\images\\biskuvi.png",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "images/biskuvi.png",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\images\\biskuvi.png"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\images\\cikolata.jpg",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\images\\cikolata.jpg",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "images/cikolata.jpg",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cikolata.jpg"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\images\\cips.jpg",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\images\\cips.jpg",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "images/cips.jpg",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cips.jpg"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\images\\domates.jpg",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\images\\domates.jpg",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "images/domates.jpg",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\images\\domates.jpg"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\images\\ekmek.jpg",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\images\\ekmek.jpg",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "images/ekmek.jpg",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\images\\ekmek.jpg"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\images\\elma.jpg",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\images\\elma.jpg",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "images/elma.jpg",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\images\\elma.jpg"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\images\\feature-image.jpg",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\images\\feature-image.jpg",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "images/feature-image.jpg",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\images\\feature-image.jpg"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\images\\kabak.jpg",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\images\\kabak.jpg",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "images/kabak.jpg",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\images\\kabak.jpg"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\images\\kavurmalıket.jpg",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\images\\kavurmalıket.jpg",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "images/kavurmalıket.jpg",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\images\\kavurmalıket.jpg"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\images\\login.jpg",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\images\\login.jpg",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "images/login.jpg",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\images\\login.jpg"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\images\\logo.jpg",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\images\\logo.jpg",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "images/logo.jpg",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\images\\logo.jpg"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\images\\makarna.jpg",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\images\\makarna.jpg",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "images/makarna.jpg",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\images\\makarna.jpg"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\images\\mandalina.jpg",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\images\\mandalina.jpg",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "images/mandalina.jpg",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\images\\mandalina.jpg"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\images\\meyvesuyu.jpg",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\images\\meyvesuyu.jpg",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "images/meyvesuyu.jpg",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\images\\meyvesuyu.jpg"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\images\\muz.jpg",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\images\\muz.jpg",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "images/muz.jpg",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\images\\muz.jpg"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\images\\nar.jpg",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\images\\nar.jpg",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "images/nar.jpg",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\images\\nar.jpg"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\images\\patates.jpg",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\images\\patates.jpg",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "images/patates.jpg",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\images\\patates.jpg"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\images\\patlican.jpg",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\images\\patlican.jpg",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "images/patlican.jpg",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\images\\patlican.jpg"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\images\\peynir.jpg",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\images\\peynir.jpg",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "images/peynir.jpg",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\images\\peynir.jpg"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\images\\salam.jpg",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\images\\salam.jpg",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "images/salam.jpg",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\images\\salam.jpg"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\images\\salca.jpg",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\images\\salca.jpg",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "images/salca.jpg",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\images\\salca.jpg"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\images\\soda.jpg",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\images\\soda.jpg",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "images/soda.jpg",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\images\\soda.jpg"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\images\\soğan.jpg",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\images\\soğan.jpg",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "images/soğan.jpg",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\images\\soğan.jpg"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\images\\sosis.jpg",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\images\\sosis.jpg",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "images/sosis.jpg",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\images\\sosis.jpg"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\images\\su.jpg",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\images\\su.jpg",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "images/su.jpg",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\images\\su.jpg"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\images\\sucuk.jpg",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\images\\sucuk.jpg",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "images/sucuk.jpg",
       "AssetKind": "All",
@@ -1564,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\images\\sucuk.jpg"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\images\\süt.jpg",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\images\\süt.jpg",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "images/süt.jpg",
       "AssetKind": "All",
@@ -1581,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\images\\süt.jpg"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\images\\tavuk.jpg",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\images\\tavuk.jpg",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "images/tavuk.jpg",
       "AssetKind": "All",
@@ -1598,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\images\\tavuk.jpg"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\images\\tereyag.jpg",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\images\\tereyag.jpg",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "images/tereyag.jpg",
       "AssetKind": "All",
@@ -1615,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\images\\tereyag.jpg"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\images\\tuz.jpg",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\images\\tuz.jpg",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "images/tuz.jpg",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\images\\tuz.jpg"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\images\\un.jpg",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\images\\un.jpg",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "images/un.jpg",
       "AssetKind": "All",
@@ -1649,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\images\\un.jpg"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\images\\yufka.jpg",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\images\\yufka.jpg",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "images/yufka.jpg",
       "AssetKind": "All",
@@ -1666,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\images\\yufka.jpg"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\images\\yulaf.jpeg",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\images\\yulaf.jpeg",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "images/yulaf.jpeg",
       "AssetKind": "All",
@@ -1683,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\images\\yulaf.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\images\\yumurta.jpeg",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\images\\yumurta.jpeg",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "images/yumurta.jpeg",
       "AssetKind": "All",
@@ -1700,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\images\\yumurta.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\images\\zeytin.jpg",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\images\\zeytin.jpg",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "images/zeytin.jpg",
       "AssetKind": "All",
@@ -1717,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\images\\zeytin.jpg"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\js\\site.js",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -1734,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1751,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1768,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1785,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1819,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1836,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1853,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1870,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1887,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1904,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1921,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1938,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -1972,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -1989,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -2006,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -2023,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -2040,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -2057,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -2074,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -2091,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -2108,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -2125,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -2142,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -2159,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -2176,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -2193,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -2210,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -2227,10 +2227,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -2244,10 +2244,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -2261,10 +2261,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -2295,10 +2295,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -2312,10 +2312,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -2329,10 +2329,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -2346,10 +2346,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -2363,10 +2363,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -2380,10 +2380,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -2397,10 +2397,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -2414,10 +2414,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -2431,10 +2431,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -2448,10 +2448,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2465,10 +2465,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -2482,10 +2482,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -2499,10 +2499,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -2516,10 +2516,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -2533,10 +2533,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -2550,10 +2550,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -2567,10 +2567,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -2584,10 +2584,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -2601,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -2618,10 +2618,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -2635,10 +2635,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -2652,10 +2652,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -2669,10 +2669,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -2686,10 +2686,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -2703,10 +2703,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\soft-ui-dashboard\\assets\\css\\nucleo-icons.css",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\soft-ui-dashboard\\assets\\css\\nucleo-icons.css",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "soft-ui-dashboard/assets/css/nucleo-icons.css",
       "AssetKind": "All",
@@ -2720,10 +2720,10 @@
       "OriginalItemSpec": "wwwroot\\soft-ui-dashboard\\assets\\css\\nucleo-icons.css"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\soft-ui-dashboard\\assets\\css\\nucleo-svg.css",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\soft-ui-dashboard\\assets\\css\\nucleo-svg.css",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "soft-ui-dashboard/assets/css/nucleo-svg.css",
       "AssetKind": "All",
@@ -2737,10 +2737,10 @@
       "OriginalItemSpec": "wwwroot\\soft-ui-dashboard\\assets\\css\\nucleo-svg.css"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\soft-ui-dashboard\\assets\\css\\soft-ui-dashboard.css",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\soft-ui-dashboard\\assets\\css\\soft-ui-dashboard.css",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "soft-ui-dashboard/assets/css/soft-ui-dashboard.css",
       "AssetKind": "All",
@@ -2754,10 +2754,10 @@
       "OriginalItemSpec": "wwwroot\\soft-ui-dashboard\\assets\\css\\soft-ui-dashboard.css"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\soft-ui-dashboard\\assets\\css\\soft-ui-dashboard.css.map",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\soft-ui-dashboard\\assets\\css\\soft-ui-dashboard.css.map",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "soft-ui-dashboard/assets/css/soft-ui-dashboard.css.map",
       "AssetKind": "All",
@@ -2771,10 +2771,10 @@
       "OriginalItemSpec": "wwwroot\\soft-ui-dashboard\\assets\\css\\soft-ui-dashboard.css.map"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\soft-ui-dashboard\\assets\\css\\soft-ui-dashboard.min.css",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\soft-ui-dashboard\\assets\\css\\soft-ui-dashboard.min.css",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "soft-ui-dashboard/assets/css/soft-ui-dashboard.min.css",
       "AssetKind": "All",
@@ -2788,10 +2788,10 @@
       "OriginalItemSpec": "wwwroot\\soft-ui-dashboard\\assets\\css\\soft-ui-dashboard.min.css"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\soft-ui-dashboard\\assets\\img\\apple-icon.png",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\soft-ui-dashboard\\assets\\img\\apple-icon.png",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "soft-ui-dashboard/assets/img/apple-icon.png",
       "AssetKind": "All",
@@ -2805,10 +2805,10 @@
       "OriginalItemSpec": "wwwroot\\soft-ui-dashboard\\assets\\img\\apple-icon.png"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\soft-ui-dashboard\\assets\\img\\bruce-mars.jpg",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\soft-ui-dashboard\\assets\\img\\bruce-mars.jpg",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "soft-ui-dashboard/assets/img/bruce-mars.jpg",
       "AssetKind": "All",
@@ -2822,10 +2822,10 @@
       "OriginalItemSpec": "wwwroot\\soft-ui-dashboard\\assets\\img\\bruce-mars.jpg"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\soft-ui-dashboard\\assets\\img\\curved-images\\curved0.jpg",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\soft-ui-dashboard\\assets\\img\\curved-images\\curved0.jpg",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "soft-ui-dashboard/assets/img/curved-images/curved0.jpg",
       "AssetKind": "All",
@@ -2839,10 +2839,10 @@
       "OriginalItemSpec": "wwwroot\\soft-ui-dashboard\\assets\\img\\curved-images\\curved0.jpg"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\soft-ui-dashboard\\assets\\img\\curved-images\\curved1.jpg",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\soft-ui-dashboard\\assets\\img\\curved-images\\curved1.jpg",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "soft-ui-dashboard/assets/img/curved-images/curved1.jpg",
       "AssetKind": "All",
@@ -2856,10 +2856,10 @@
       "OriginalItemSpec": "wwwroot\\soft-ui-dashboard\\assets\\img\\curved-images\\curved1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\soft-ui-dashboard\\assets\\img\\curved-images\\curved14.jpg",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\soft-ui-dashboard\\assets\\img\\curved-images\\curved14.jpg",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "soft-ui-dashboard/assets/img/curved-images/curved14.jpg",
       "AssetKind": "All",
@@ -2873,10 +2873,10 @@
       "OriginalItemSpec": "wwwroot\\soft-ui-dashboard\\assets\\img\\curved-images\\curved14.jpg"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\soft-ui-dashboard\\assets\\img\\curved-images\\curved6.jpg",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\soft-ui-dashboard\\assets\\img\\curved-images\\curved6.jpg",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "soft-ui-dashboard/assets/img/curved-images/curved6.jpg",
       "AssetKind": "All",
@@ -2890,10 +2890,10 @@
       "OriginalItemSpec": "wwwroot\\soft-ui-dashboard\\assets\\img\\curved-images\\curved6.jpg"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\soft-ui-dashboard\\assets\\img\\curved-images\\curved8.jpg",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\soft-ui-dashboard\\assets\\img\\curved-images\\curved8.jpg",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "soft-ui-dashboard/assets/img/curved-images/curved8.jpg",
       "AssetKind": "All",
@@ -2907,10 +2907,10 @@
       "OriginalItemSpec": "wwwroot\\soft-ui-dashboard\\assets\\img\\curved-images\\curved8.jpg"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\soft-ui-dashboard\\assets\\img\\curved-images\\white-curved.jpeg",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\soft-ui-dashboard\\assets\\img\\curved-images\\white-curved.jpeg",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "soft-ui-dashboard/assets/img/curved-images/white-curved.jpeg",
       "AssetKind": "All",
@@ -2924,10 +2924,10 @@
       "OriginalItemSpec": "wwwroot\\soft-ui-dashboard\\assets\\img\\curved-images\\white-curved.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\soft-ui-dashboard\\assets\\img\\down-arrow.svg",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\soft-ui-dashboard\\assets\\img\\down-arrow.svg",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "soft-ui-dashboard/assets/img/down-arrow.svg",
       "AssetKind": "All",
@@ -2941,10 +2941,10 @@
       "OriginalItemSpec": "wwwroot\\soft-ui-dashboard\\assets\\img\\down-arrow.svg"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\soft-ui-dashboard\\assets\\img\\down-arrow-dark.svg",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\soft-ui-dashboard\\assets\\img\\down-arrow-dark.svg",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "soft-ui-dashboard/assets/img/down-arrow-dark.svg",
       "AssetKind": "All",
@@ -2958,10 +2958,10 @@
       "OriginalItemSpec": "wwwroot\\soft-ui-dashboard\\assets\\img\\down-arrow-dark.svg"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\soft-ui-dashboard\\assets\\img\\favicon.png",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\soft-ui-dashboard\\assets\\img\\favicon.png",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "soft-ui-dashboard/assets/img/favicon.png",
       "AssetKind": "All",
@@ -2975,10 +2975,10 @@
       "OriginalItemSpec": "wwwroot\\soft-ui-dashboard\\assets\\img\\favicon.png"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\soft-ui-dashboard\\assets\\img\\home-decor-1.jpg",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\soft-ui-dashboard\\assets\\img\\home-decor-1.jpg",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "soft-ui-dashboard/assets/img/home-decor-1.jpg",
       "AssetKind": "All",
@@ -2992,10 +2992,10 @@
       "OriginalItemSpec": "wwwroot\\soft-ui-dashboard\\assets\\img\\home-decor-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\soft-ui-dashboard\\assets\\img\\home-decor-2.jpg",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\soft-ui-dashboard\\assets\\img\\home-decor-2.jpg",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "soft-ui-dashboard/assets/img/home-decor-2.jpg",
       "AssetKind": "All",
@@ -3009,10 +3009,10 @@
       "OriginalItemSpec": "wwwroot\\soft-ui-dashboard\\assets\\img\\home-decor-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\soft-ui-dashboard\\assets\\img\\home-decor-3.jpg",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\soft-ui-dashboard\\assets\\img\\home-decor-3.jpg",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "soft-ui-dashboard/assets/img/home-decor-3.jpg",
       "AssetKind": "All",
@@ -3026,10 +3026,10 @@
       "OriginalItemSpec": "wwwroot\\soft-ui-dashboard\\assets\\img\\home-decor-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\soft-ui-dashboard\\assets\\img\\illustrations\\rocket-white.png",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\soft-ui-dashboard\\assets\\img\\illustrations\\rocket-white.png",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "soft-ui-dashboard/assets/img/illustrations/rocket-white.png",
       "AssetKind": "All",
@@ -3043,10 +3043,10 @@
       "OriginalItemSpec": "wwwroot\\soft-ui-dashboard\\assets\\img\\illustrations\\rocket-white.png"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\soft-ui-dashboard\\assets\\img\\ivana-square.jpg",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\soft-ui-dashboard\\assets\\img\\ivana-square.jpg",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "soft-ui-dashboard/assets/img/ivana-square.jpg",
       "AssetKind": "All",
@@ -3060,10 +3060,10 @@
       "OriginalItemSpec": "wwwroot\\soft-ui-dashboard\\assets\\img\\ivana-square.jpg"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\soft-ui-dashboard\\assets\\img\\ivancik.jpg",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\soft-ui-dashboard\\assets\\img\\ivancik.jpg",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "soft-ui-dashboard/assets/img/ivancik.jpg",
       "AssetKind": "All",
@@ -3077,10 +3077,10 @@
       "OriginalItemSpec": "wwwroot\\soft-ui-dashboard\\assets\\img\\ivancik.jpg"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\soft-ui-dashboard\\assets\\img\\kal-visuals-square.jpg",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\soft-ui-dashboard\\assets\\img\\kal-visuals-square.jpg",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "soft-ui-dashboard/assets/img/kal-visuals-square.jpg",
       "AssetKind": "All",
@@ -3094,10 +3094,10 @@
       "OriginalItemSpec": "wwwroot\\soft-ui-dashboard\\assets\\img\\kal-visuals-square.jpg"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\soft-ui-dashboard\\assets\\img\\logo-ct.png",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\soft-ui-dashboard\\assets\\img\\logo-ct.png",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "soft-ui-dashboard/assets/img/logo-ct.png",
       "AssetKind": "All",
@@ -3111,10 +3111,10 @@
       "OriginalItemSpec": "wwwroot\\soft-ui-dashboard\\assets\\img\\logo-ct.png"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\soft-ui-dashboard\\assets\\img\\logos\\mastercard.png",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\soft-ui-dashboard\\assets\\img\\logos\\mastercard.png",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "soft-ui-dashboard/assets/img/logos/mastercard.png",
       "AssetKind": "All",
@@ -3128,10 +3128,10 @@
       "OriginalItemSpec": "wwwroot\\soft-ui-dashboard\\assets\\img\\logos\\mastercard.png"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\soft-ui-dashboard\\assets\\img\\logos\\visa.png",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\soft-ui-dashboard\\assets\\img\\logos\\visa.png",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "soft-ui-dashboard/assets/img/logos/visa.png",
       "AssetKind": "All",
@@ -3145,10 +3145,10 @@
       "OriginalItemSpec": "wwwroot\\soft-ui-dashboard\\assets\\img\\logos\\visa.png"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\soft-ui-dashboard\\assets\\img\\marie.jpg",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\soft-ui-dashboard\\assets\\img\\marie.jpg",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "soft-ui-dashboard/assets/img/marie.jpg",
       "AssetKind": "All",
@@ -3162,10 +3162,10 @@
       "OriginalItemSpec": "wwwroot\\soft-ui-dashboard\\assets\\img\\marie.jpg"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\soft-ui-dashboard\\assets\\img\\shapes\\waves-white.svg",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\soft-ui-dashboard\\assets\\img\\shapes\\waves-white.svg",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "soft-ui-dashboard/assets/img/shapes/waves-white.svg",
       "AssetKind": "All",
@@ -3179,10 +3179,10 @@
       "OriginalItemSpec": "wwwroot\\soft-ui-dashboard\\assets\\img\\shapes\\waves-white.svg"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\soft-ui-dashboard\\assets\\img\\small-logos\\icon-sun-cloud.png",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\soft-ui-dashboard\\assets\\img\\small-logos\\icon-sun-cloud.png",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "soft-ui-dashboard/assets/img/small-logos/icon-sun-cloud.png",
       "AssetKind": "All",
@@ -3196,10 +3196,10 @@
       "OriginalItemSpec": "wwwroot\\soft-ui-dashboard\\assets\\img\\small-logos\\icon-sun-cloud.png"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\soft-ui-dashboard\\assets\\img\\small-logos\\logo-atlassian.svg",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\soft-ui-dashboard\\assets\\img\\small-logos\\logo-atlassian.svg",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "soft-ui-dashboard/assets/img/small-logos/logo-atlassian.svg",
       "AssetKind": "All",
@@ -3213,10 +3213,10 @@
       "OriginalItemSpec": "wwwroot\\soft-ui-dashboard\\assets\\img\\small-logos\\logo-atlassian.svg"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\soft-ui-dashboard\\assets\\img\\small-logos\\logo-invision.svg",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\soft-ui-dashboard\\assets\\img\\small-logos\\logo-invision.svg",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "soft-ui-dashboard/assets/img/small-logos/logo-invision.svg",
       "AssetKind": "All",
@@ -3230,10 +3230,10 @@
       "OriginalItemSpec": "wwwroot\\soft-ui-dashboard\\assets\\img\\small-logos\\logo-invision.svg"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\soft-ui-dashboard\\assets\\img\\small-logos\\logo-jira.svg",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\soft-ui-dashboard\\assets\\img\\small-logos\\logo-jira.svg",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "soft-ui-dashboard/assets/img/small-logos/logo-jira.svg",
       "AssetKind": "All",
@@ -3247,10 +3247,10 @@
       "OriginalItemSpec": "wwwroot\\soft-ui-dashboard\\assets\\img\\small-logos\\logo-jira.svg"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\soft-ui-dashboard\\assets\\img\\small-logos\\logo-slack.svg",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\soft-ui-dashboard\\assets\\img\\small-logos\\logo-slack.svg",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "soft-ui-dashboard/assets/img/small-logos/logo-slack.svg",
       "AssetKind": "All",
@@ -3264,10 +3264,10 @@
       "OriginalItemSpec": "wwwroot\\soft-ui-dashboard\\assets\\img\\small-logos\\logo-slack.svg"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\soft-ui-dashboard\\assets\\img\\small-logos\\logo-spotify.svg",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\soft-ui-dashboard\\assets\\img\\small-logos\\logo-spotify.svg",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "soft-ui-dashboard/assets/img/small-logos/logo-spotify.svg",
       "AssetKind": "All",
@@ -3281,10 +3281,10 @@
       "OriginalItemSpec": "wwwroot\\soft-ui-dashboard\\assets\\img\\small-logos\\logo-spotify.svg"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\soft-ui-dashboard\\assets\\img\\small-logos\\logo-webdev.svg",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\soft-ui-dashboard\\assets\\img\\small-logos\\logo-webdev.svg",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "soft-ui-dashboard/assets/img/small-logos/logo-webdev.svg",
       "AssetKind": "All",
@@ -3298,10 +3298,10 @@
       "OriginalItemSpec": "wwwroot\\soft-ui-dashboard\\assets\\img\\small-logos\\logo-webdev.svg"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\soft-ui-dashboard\\assets\\img\\small-logos\\logo-xd.svg",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\soft-ui-dashboard\\assets\\img\\small-logos\\logo-xd.svg",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "soft-ui-dashboard/assets/img/small-logos/logo-xd.svg",
       "AssetKind": "All",
@@ -3315,10 +3315,10 @@
       "OriginalItemSpec": "wwwroot\\soft-ui-dashboard\\assets\\img\\small-logos\\logo-xd.svg"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\soft-ui-dashboard\\assets\\img\\team-1.jpg",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\soft-ui-dashboard\\assets\\img\\team-1.jpg",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "soft-ui-dashboard/assets/img/team-1.jpg",
       "AssetKind": "All",
@@ -3332,10 +3332,10 @@
       "OriginalItemSpec": "wwwroot\\soft-ui-dashboard\\assets\\img\\team-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\soft-ui-dashboard\\assets\\img\\team-2.jpg",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\soft-ui-dashboard\\assets\\img\\team-2.jpg",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "soft-ui-dashboard/assets/img/team-2.jpg",
       "AssetKind": "All",
@@ -3349,10 +3349,10 @@
       "OriginalItemSpec": "wwwroot\\soft-ui-dashboard\\assets\\img\\team-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\soft-ui-dashboard\\assets\\img\\team-3.jpg",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\soft-ui-dashboard\\assets\\img\\team-3.jpg",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "soft-ui-dashboard/assets/img/team-3.jpg",
       "AssetKind": "All",
@@ -3366,10 +3366,10 @@
       "OriginalItemSpec": "wwwroot\\soft-ui-dashboard\\assets\\img\\team-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\soft-ui-dashboard\\assets\\img\\team-4.jpg",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\soft-ui-dashboard\\assets\\img\\team-4.jpg",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "soft-ui-dashboard/assets/img/team-4.jpg",
       "AssetKind": "All",
@@ -3383,10 +3383,10 @@
       "OriginalItemSpec": "wwwroot\\soft-ui-dashboard\\assets\\img\\team-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\soft-ui-dashboard\\assets\\img\\vr-bg.jpg",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\soft-ui-dashboard\\assets\\img\\vr-bg.jpg",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "soft-ui-dashboard/assets/img/vr-bg.jpg",
       "AssetKind": "All",
@@ -3400,10 +3400,10 @@
       "OriginalItemSpec": "wwwroot\\soft-ui-dashboard\\assets\\img\\vr-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\templatemo_546_sixteen_clothing\\assets\\css\\flex-slider.css",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\templatemo_546_sixteen_clothing\\assets\\css\\flex-slider.css",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "templatemo_546_sixteen_clothing/assets/css/flex-slider.css",
       "AssetKind": "All",
@@ -3417,10 +3417,10 @@
       "OriginalItemSpec": "wwwroot\\templatemo_546_sixteen_clothing\\assets\\css\\flex-slider.css"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\templatemo_546_sixteen_clothing\\assets\\css\\fontawesome.css",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\templatemo_546_sixteen_clothing\\assets\\css\\fontawesome.css",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "templatemo_546_sixteen_clothing/assets/css/fontawesome.css",
       "AssetKind": "All",
@@ -3434,10 +3434,10 @@
       "OriginalItemSpec": "wwwroot\\templatemo_546_sixteen_clothing\\assets\\css\\fontawesome.css"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\templatemo_546_sixteen_clothing\\assets\\css\\owl.css",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\templatemo_546_sixteen_clothing\\assets\\css\\owl.css",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "templatemo_546_sixteen_clothing/assets/css/owl.css",
       "AssetKind": "All",
@@ -3451,10 +3451,10 @@
       "OriginalItemSpec": "wwwroot\\templatemo_546_sixteen_clothing\\assets\\css\\owl.css"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\templatemo_546_sixteen_clothing\\assets\\css\\templatemo-sixteen.css",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\templatemo_546_sixteen_clothing\\assets\\css\\templatemo-sixteen.css",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "templatemo_546_sixteen_clothing/assets/css/templatemo-sixteen.css",
       "AssetKind": "All",
@@ -3468,10 +3468,10 @@
       "OriginalItemSpec": "wwwroot\\templatemo_546_sixteen_clothing\\assets\\css\\templatemo-sixteen.css"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\templatemo_546_sixteen_clothing\\assets\\fonts\\Flaticon.woff",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\templatemo_546_sixteen_clothing\\assets\\fonts\\Flaticon.woff",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "templatemo_546_sixteen_clothing/assets/fonts/Flaticon.woff",
       "AssetKind": "All",
@@ -3485,10 +3485,10 @@
       "OriginalItemSpec": "wwwroot\\templatemo_546_sixteen_clothing\\assets\\fonts\\Flaticon.woff"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\templatemo_546_sixteen_clothing\\assets\\fonts\\flexslider-icon.eot",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\templatemo_546_sixteen_clothing\\assets\\fonts\\flexslider-icon.eot",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "templatemo_546_sixteen_clothing/assets/fonts/flexslider-icon.eot",
       "AssetKind": "All",
@@ -3502,10 +3502,10 @@
       "OriginalItemSpec": "wwwroot\\templatemo_546_sixteen_clothing\\assets\\fonts\\flexslider-icon.eot"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\templatemo_546_sixteen_clothing\\assets\\fonts\\flexslider-icon.svg",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\templatemo_546_sixteen_clothing\\assets\\fonts\\flexslider-icon.svg",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "templatemo_546_sixteen_clothing/assets/fonts/flexslider-icon.svg",
       "AssetKind": "All",
@@ -3519,10 +3519,10 @@
       "OriginalItemSpec": "wwwroot\\templatemo_546_sixteen_clothing\\assets\\fonts\\flexslider-icon.svg"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\templatemo_546_sixteen_clothing\\assets\\fonts\\flexslider-icon.ttf",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\templatemo_546_sixteen_clothing\\assets\\fonts\\flexslider-icon.ttf",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "templatemo_546_sixteen_clothing/assets/fonts/flexslider-icon.ttf",
       "AssetKind": "All",
@@ -3536,10 +3536,10 @@
       "OriginalItemSpec": "wwwroot\\templatemo_546_sixteen_clothing\\assets\\fonts\\flexslider-icon.ttf"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\templatemo_546_sixteen_clothing\\assets\\fonts\\flexslider-icon.woff",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\templatemo_546_sixteen_clothing\\assets\\fonts\\flexslider-icon.woff",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "templatemo_546_sixteen_clothing/assets/fonts/flexslider-icon.woff",
       "AssetKind": "All",
@@ -3553,10 +3553,10 @@
       "OriginalItemSpec": "wwwroot\\templatemo_546_sixteen_clothing\\assets\\fonts\\flexslider-icon.woff"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\templatemo_546_sixteen_clothing\\assets\\fonts\\FontAwesome.otf",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\templatemo_546_sixteen_clothing\\assets\\fonts\\FontAwesome.otf",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "templatemo_546_sixteen_clothing/assets/fonts/FontAwesome.otf",
       "AssetKind": "All",
@@ -3570,10 +3570,10 @@
       "OriginalItemSpec": "wwwroot\\templatemo_546_sixteen_clothing\\assets\\fonts\\FontAwesome.otf"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\templatemo_546_sixteen_clothing\\assets\\fonts\\fontawesome-webfont.eot",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\templatemo_546_sixteen_clothing\\assets\\fonts\\fontawesome-webfont.eot",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "templatemo_546_sixteen_clothing/assets/fonts/fontawesome-webfont.eot",
       "AssetKind": "All",
@@ -3587,10 +3587,10 @@
       "OriginalItemSpec": "wwwroot\\templatemo_546_sixteen_clothing\\assets\\fonts\\fontawesome-webfont.eot"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\templatemo_546_sixteen_clothing\\assets\\fonts\\fontawesome-webfont.svg",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\templatemo_546_sixteen_clothing\\assets\\fonts\\fontawesome-webfont.svg",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "templatemo_546_sixteen_clothing/assets/fonts/fontawesome-webfont.svg",
       "AssetKind": "All",
@@ -3604,10 +3604,10 @@
       "OriginalItemSpec": "wwwroot\\templatemo_546_sixteen_clothing\\assets\\fonts\\fontawesome-webfont.svg"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\templatemo_546_sixteen_clothing\\assets\\fonts\\fontawesome-webfont.ttf",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\templatemo_546_sixteen_clothing\\assets\\fonts\\fontawesome-webfont.ttf",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "templatemo_546_sixteen_clothing/assets/fonts/fontawesome-webfont.ttf",
       "AssetKind": "All",
@@ -3621,10 +3621,10 @@
       "OriginalItemSpec": "wwwroot\\templatemo_546_sixteen_clothing\\assets\\fonts\\fontawesome-webfont.ttf"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\templatemo_546_sixteen_clothing\\assets\\fonts\\fontawesome-webfont.woff",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\templatemo_546_sixteen_clothing\\assets\\fonts\\fontawesome-webfont.woff",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "templatemo_546_sixteen_clothing/assets/fonts/fontawesome-webfont.woff",
       "AssetKind": "All",
@@ -3638,10 +3638,10 @@
       "OriginalItemSpec": "wwwroot\\templatemo_546_sixteen_clothing\\assets\\fonts\\fontawesome-webfont.woff"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\templatemo_546_sixteen_clothing\\assets\\fonts\\fontawesome-webfont.woff2",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\templatemo_546_sixteen_clothing\\assets\\fonts\\fontawesome-webfont.woff2",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "templatemo_546_sixteen_clothing/assets/fonts/fontawesome-webfont.woff2",
       "AssetKind": "All",
@@ -3655,10 +3655,10 @@
       "OriginalItemSpec": "wwwroot\\templatemo_546_sixteen_clothing\\assets\\fonts\\fontawesome-webfont.woff2"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\templatemo_546_sixteen_clothing\\assets\\fonts\\slick.eot",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\templatemo_546_sixteen_clothing\\assets\\fonts\\slick.eot",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "templatemo_546_sixteen_clothing/assets/fonts/slick.eot",
       "AssetKind": "All",
@@ -3672,10 +3672,10 @@
       "OriginalItemSpec": "wwwroot\\templatemo_546_sixteen_clothing\\assets\\fonts\\slick.eot"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\templatemo_546_sixteen_clothing\\assets\\fonts\\slick.svg",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\templatemo_546_sixteen_clothing\\assets\\fonts\\slick.svg",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "templatemo_546_sixteen_clothing/assets/fonts/slick.svg",
       "AssetKind": "All",
@@ -3689,10 +3689,10 @@
       "OriginalItemSpec": "wwwroot\\templatemo_546_sixteen_clothing\\assets\\fonts\\slick.svg"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\templatemo_546_sixteen_clothing\\assets\\fonts\\slick.ttf",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\templatemo_546_sixteen_clothing\\assets\\fonts\\slick.ttf",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "templatemo_546_sixteen_clothing/assets/fonts/slick.ttf",
       "AssetKind": "All",
@@ -3706,10 +3706,10 @@
       "OriginalItemSpec": "wwwroot\\templatemo_546_sixteen_clothing\\assets\\fonts\\slick.ttf"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\templatemo_546_sixteen_clothing\\assets\\fonts\\slick.woff",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\templatemo_546_sixteen_clothing\\assets\\fonts\\slick.woff",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "templatemo_546_sixteen_clothing/assets/fonts/slick.woff",
       "AssetKind": "All",
@@ -3723,10 +3723,10 @@
       "OriginalItemSpec": "wwwroot\\templatemo_546_sixteen_clothing\\assets\\fonts\\slick.woff"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\templatemo_546_sixteen_clothing\\assets\\images\\slide.jpg",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\templatemo_546_sixteen_clothing\\assets\\images\\slide.jpg",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "templatemo_546_sixteen_clothing/assets/images/slide.jpg",
       "AssetKind": "All",
@@ -3740,10 +3740,10 @@
       "OriginalItemSpec": "wwwroot\\templatemo_546_sixteen_clothing\\assets\\images\\slide.jpg"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\templatemo_546_sixteen_clothing\\assets\\images\\slide_01.jpg",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\templatemo_546_sixteen_clothing\\assets\\images\\slide_01.jpg",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "templatemo_546_sixteen_clothing/assets/images/slide_01.jpg",
       "AssetKind": "All",
@@ -3757,10 +3757,10 @@
       "OriginalItemSpec": "wwwroot\\templatemo_546_sixteen_clothing\\assets\\images\\slide_01.jpg"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\templatemo_546_sixteen_clothing\\assets\\js\\accordions.js",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\templatemo_546_sixteen_clothing\\assets\\js\\accordions.js",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "templatemo_546_sixteen_clothing/assets/js/accordions.js",
       "AssetKind": "All",
@@ -3774,10 +3774,10 @@
       "OriginalItemSpec": "wwwroot\\templatemo_546_sixteen_clothing\\assets\\js\\accordions.js"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\templatemo_546_sixteen_clothing\\assets\\js\\custom.js",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\templatemo_546_sixteen_clothing\\assets\\js\\custom.js",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "templatemo_546_sixteen_clothing/assets/js/custom.js",
       "AssetKind": "All",
@@ -3791,10 +3791,10 @@
       "OriginalItemSpec": "wwwroot\\templatemo_546_sixteen_clothing\\assets\\js\\custom.js"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\templatemo_546_sixteen_clothing\\assets\\js\\isotope.js",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\templatemo_546_sixteen_clothing\\assets\\js\\isotope.js",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "templatemo_546_sixteen_clothing/assets/js/isotope.js",
       "AssetKind": "All",
@@ -3808,10 +3808,10 @@
       "OriginalItemSpec": "wwwroot\\templatemo_546_sixteen_clothing\\assets\\js\\isotope.js"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\templatemo_546_sixteen_clothing\\assets\\js\\owl.js",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\templatemo_546_sixteen_clothing\\assets\\js\\owl.js",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "templatemo_546_sixteen_clothing/assets/js/owl.js",
       "AssetKind": "All",
@@ -3825,10 +3825,10 @@
       "OriginalItemSpec": "wwwroot\\templatemo_546_sixteen_clothing\\assets\\js\\owl.js"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\templatemo_546_sixteen_clothing\\assets\\js\\slick.js",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\templatemo_546_sixteen_clothing\\assets\\js\\slick.js",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "templatemo_546_sixteen_clothing/assets/js/slick.js",
       "AssetKind": "All",
@@ -3842,10 +3842,10 @@
       "OriginalItemSpec": "wwwroot\\templatemo_546_sixteen_clothing\\assets\\js\\slick.js"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\templatemo_546_sixteen_clothing\\vendor\\bootstrap\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\templatemo_546_sixteen_clothing\\vendor\\bootstrap\\css\\bootstrap.css",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "templatemo_546_sixteen_clothing/vendor/bootstrap/css/bootstrap.css",
       "AssetKind": "All",
@@ -3859,10 +3859,10 @@
       "OriginalItemSpec": "wwwroot\\templatemo_546_sixteen_clothing\\vendor\\bootstrap\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\templatemo_546_sixteen_clothing\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\templatemo_546_sixteen_clothing\\vendor\\bootstrap\\css\\bootstrap.css.map",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "templatemo_546_sixteen_clothing/vendor/bootstrap/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -3876,10 +3876,10 @@
       "OriginalItemSpec": "wwwroot\\templatemo_546_sixteen_clothing\\vendor\\bootstrap\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\templatemo_546_sixteen_clothing\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\templatemo_546_sixteen_clothing\\vendor\\bootstrap\\css\\bootstrap.min.css",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "templatemo_546_sixteen_clothing/vendor/bootstrap/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -3893,10 +3893,10 @@
       "OriginalItemSpec": "wwwroot\\templatemo_546_sixteen_clothing\\vendor\\bootstrap\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\templatemo_546_sixteen_clothing\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\templatemo_546_sixteen_clothing\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "templatemo_546_sixteen_clothing/vendor/bootstrap/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -3910,10 +3910,10 @@
       "OriginalItemSpec": "wwwroot\\templatemo_546_sixteen_clothing\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\templatemo_546_sixteen_clothing\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\templatemo_546_sixteen_clothing\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "templatemo_546_sixteen_clothing/vendor/bootstrap/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -3927,10 +3927,10 @@
       "OriginalItemSpec": "wwwroot\\templatemo_546_sixteen_clothing\\vendor\\bootstrap\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\templatemo_546_sixteen_clothing\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\templatemo_546_sixteen_clothing\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "templatemo_546_sixteen_clothing/vendor/bootstrap/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -3944,10 +3944,10 @@
       "OriginalItemSpec": "wwwroot\\templatemo_546_sixteen_clothing\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\templatemo_546_sixteen_clothing\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\templatemo_546_sixteen_clothing\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "templatemo_546_sixteen_clothing/vendor/bootstrap/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -3961,10 +3961,10 @@
       "OriginalItemSpec": "wwwroot\\templatemo_546_sixteen_clothing\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\templatemo_546_sixteen_clothing\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\templatemo_546_sixteen_clothing\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "templatemo_546_sixteen_clothing/vendor/bootstrap/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -3978,10 +3978,10 @@
       "OriginalItemSpec": "wwwroot\\templatemo_546_sixteen_clothing\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\templatemo_546_sixteen_clothing\\vendor\\bootstrap\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\templatemo_546_sixteen_clothing\\vendor\\bootstrap\\js\\bootstrap.js",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "templatemo_546_sixteen_clothing/vendor/bootstrap/js/bootstrap.js",
       "AssetKind": "All",
@@ -3995,10 +3995,10 @@
       "OriginalItemSpec": "wwwroot\\templatemo_546_sixteen_clothing\\vendor\\bootstrap\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\templatemo_546_sixteen_clothing\\vendor\\bootstrap\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\templatemo_546_sixteen_clothing\\vendor\\bootstrap\\js\\bootstrap.js.map",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "templatemo_546_sixteen_clothing/vendor/bootstrap/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -4012,10 +4012,10 @@
       "OriginalItemSpec": "wwwroot\\templatemo_546_sixteen_clothing\\vendor\\bootstrap\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\templatemo_546_sixteen_clothing\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\templatemo_546_sixteen_clothing\\vendor\\bootstrap\\js\\bootstrap.min.js",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "templatemo_546_sixteen_clothing/vendor/bootstrap/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -4029,10 +4029,10 @@
       "OriginalItemSpec": "wwwroot\\templatemo_546_sixteen_clothing\\vendor\\bootstrap\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\templatemo_546_sixteen_clothing\\vendor\\bootstrap\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\templatemo_546_sixteen_clothing\\vendor\\bootstrap\\js\\bootstrap.min.js.map",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "templatemo_546_sixteen_clothing/vendor/bootstrap/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -4046,10 +4046,10 @@
       "OriginalItemSpec": "wwwroot\\templatemo_546_sixteen_clothing\\vendor\\bootstrap\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\templatemo_546_sixteen_clothing\\vendor\\jquery\\jquery.js",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\templatemo_546_sixteen_clothing\\vendor\\jquery\\jquery.js",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "templatemo_546_sixteen_clothing/vendor/jquery/jquery.js",
       "AssetKind": "All",
@@ -4063,10 +4063,10 @@
       "OriginalItemSpec": "wwwroot\\templatemo_546_sixteen_clothing\\vendor\\jquery\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\templatemo_546_sixteen_clothing\\vendor\\jquery\\jquery.min.js",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\templatemo_546_sixteen_clothing\\vendor\\jquery\\jquery.min.js",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "templatemo_546_sixteen_clothing/vendor/jquery/jquery.min.js",
       "AssetKind": "All",
@@ -4080,10 +4080,10 @@
       "OriginalItemSpec": "wwwroot\\templatemo_546_sixteen_clothing\\vendor\\jquery\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\templatemo_546_sixteen_clothing\\vendor\\jquery\\jquery.min.map",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\templatemo_546_sixteen_clothing\\vendor\\jquery\\jquery.min.map",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "templatemo_546_sixteen_clothing/vendor/jquery/jquery.min.map",
       "AssetKind": "All",
@@ -4097,10 +4097,10 @@
       "OriginalItemSpec": "wwwroot\\templatemo_546_sixteen_clothing\\vendor\\jquery\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\templatemo_546_sixteen_clothing\\vendor\\jquery\\jquery.slim.js",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\templatemo_546_sixteen_clothing\\vendor\\jquery\\jquery.slim.js",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "templatemo_546_sixteen_clothing/vendor/jquery/jquery.slim.js",
       "AssetKind": "All",
@@ -4114,10 +4114,10 @@
       "OriginalItemSpec": "wwwroot\\templatemo_546_sixteen_clothing\\vendor\\jquery\\jquery.slim.js"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\templatemo_546_sixteen_clothing\\vendor\\jquery\\jquery.slim.min.js",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\templatemo_546_sixteen_clothing\\vendor\\jquery\\jquery.slim.min.js",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "templatemo_546_sixteen_clothing/vendor/jquery/jquery.slim.min.js",
       "AssetKind": "All",
@@ -4131,10 +4131,10 @@
       "OriginalItemSpec": "wwwroot\\templatemo_546_sixteen_clothing\\vendor\\jquery\\jquery.slim.min.js"
     },
     {
-      "Identity": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\templatemo_546_sixteen_clothing\\vendor\\jquery\\jquery.slim.min.map",
+      "Identity": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\templatemo_546_sixteen_clothing\\vendor\\jquery\\jquery.slim.min.map",
       "SourceId": "ShoppingListCore",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\wwwroot\\",
       "BasePath": "_content/ShoppingListCore",
       "RelativePath": "templatemo_546_sixteen_clothing/vendor/jquery/jquery.slim.min.map",
       "AssetKind": "All",

@@ -10294,11 +10294,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\ShoppingListCore.csproj",
+      "projectUniqueName": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\ShoppingListCore.csproj",
       "projectName": "ShoppingListCore",
-      "projectPath": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\ShoppingListCore.csproj",
+      "projectPath": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\ShoppingListCore.csproj",
       "packagesPath": "C:\\Users\\Suat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\obj\\",
+      "outputPath": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -35,14 +35,14 @@ namespace ShoppingListCore.Areas.Member.Controllers
 
         public IActionResult Index()
         {
-            //Oturumu açık olan kullanıcının idsi ile listelerini getirdik
+            //Returns the lists and ids of the user that is currently signed in
             Userid = Convert.ToInt32(HttpContext.User.Identity.Name);
             var lists = listRepository.GetListByFilter(x => x.UserId == Userid);
             return View(lists);
         }
         public IActionResult DeleteList(int id)
         {
-            //Listdetail idsine göre liste siler
+            //Deletes the lists according to their listdetail ids
 
             listRepository.Delete(listRepository.GetByFilter(x=>x.UserId==Userid&x.ListId==id));
             return RedirectToAction("Index", "List");
@@ -50,7 +50,7 @@ namespace ShoppingListCore.Areas.Member.Controllers
         }
         public IActionResult DeleteProductonList(int id,int ListId)
         {
-            //product id ye göre listdetail içerisindeki seçilen ürünü siler
+            //Deletes the chosen product that's in listdetail according to it's product id
             var identitycontrol = listRepository.GetByFilter(x => x.UserId == Userid & x.ListId == ListId);
             if (identitycontrol != null)
                 listDetailRepository.Delete(listDetailRepository.GetByID(id));
@@ -58,7 +58,7 @@ namespace ShoppingListCore.Areas.Member.Controllers
         }
         public IActionResult DeleteProductonShop(int id, int ListId)
         {
-            //product id ye göre listdetail içerisindeki seçilen ürünü siler
+            //Deletes the chosen product that's in listdetail according to it's product id
             var identitycontrol = listRepository.GetByFilter(x => x.UserId == Userid & x.ListId == ListId);
             if (identitycontrol != null)
                 listDetailRepository.Delete(listDetailRepository.GetByID(id));
@@ -67,7 +67,7 @@ namespace ShoppingListCore.Areas.Member.Controllers
         [HttpPost]
         public IActionResult AddList(List list)
         {
-          //kullanıcıya liste ekler
+          //Adds a list to the current user
             ListValidator validator = new ListValidator();
             ValidationResult result = validator.Validate(list);
             if (result.IsValid == false)

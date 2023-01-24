@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VGagM7HbBLWPPJFFH0RVQ8b0kamUnuG3s2fHI/P500bZ+siTWWeHo77AfCUb9GIo2eXRjbH2so3MYjhX2kowHA==",
+  "dgSpecHash": "v85Vatg9kAc61tm/qjKzsj7uvDAgxLen9wx3e5JgXE8H7tKerFdRmYf4P62Ael+YK9MxUvMyUcoTFIFI4EmW8A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Suat\\Desktop\\ShoppingList-master\\ShoppingListCore\\ShoppingListCore.csproj",
+  "projectFilePath": "C:\\Users\\Suat\\Desktop\\NetCore-Shopping-List\\ShoppingListCore\\ShoppingListCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Suat\\.nuget\\packages\\bootstrap\\5.2.3\\bootstrap.5.2.3.nupkg.sha512",
     "C:\\Users\\Suat\\.nuget\\packages\\fluentvalidation\\11.4.0\\fluentvalidation.11.4.0.nupkg.sha512",

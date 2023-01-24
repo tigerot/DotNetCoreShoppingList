@@ -39,7 +39,7 @@ namespace ShoppingListCoreProject.Controllers
             {
                 foreach (var error in result.Errors)
                 {
-                    //şart sağlanmamışsa ekrana hata mesajını gönderiyoruz
+                    //Returns the error message if the conditions aren't valid
                     ModelState.AddModelError(error.PropertyName, error.ErrorMessage);
                 }
                 return View();
